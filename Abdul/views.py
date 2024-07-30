@@ -9,5 +9,7 @@ def sample1(request):
     return HttpResponse("hello i am fine")
 
 
+
 def sample3(request):
-    return HttpResponse("welcome to the world ")
+    return HttpResponse("welcome to python")
+
