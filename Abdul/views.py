@@ -8,3 +8,6 @@ def sample(request):
 def sample1(request):
     return HttpResponse("hello i am fine")
 
+
+def sample2(request):
+    return HttpResponse("welcome to the world ")
