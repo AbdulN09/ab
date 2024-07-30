@@ -10,4 +10,4 @@ def sample1(request):
 
 
 def sample2(request):
-    return HttpResponse("welcome to the world ")
+    return HttpResponse("welcome to python")
